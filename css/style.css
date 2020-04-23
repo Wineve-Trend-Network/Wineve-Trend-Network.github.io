@@ -95,6 +95,15 @@
 #cssmenu > ul > li > a:hover:after {
   background: #47c9af;
 }
+/*header*/
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
+
 /*footer*/
 @import url('http://fonts.googleapis.com/css?family=Open+Sans:400,700');
 
